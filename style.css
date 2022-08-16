@@ -1,0 +1,12 @@
+body{
+    background-color:aquamarine;
+}
+.red{
+    text-align: center;
+}
+.bun{
+    width: 1000px;
+    height: auto;
+    background: white;
+    margin:  0 auto;            /* 中央寄せ */
+}
